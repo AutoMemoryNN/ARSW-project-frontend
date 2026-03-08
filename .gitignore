@@ -1,5 +1,9 @@
 node_modules
 
+scripts
+
+mocks.*
+
 pnpm-lock.yaml
 
 /.cache
@@ -7,3 +11,5 @@ pnpm-lock.yaml
 
 .vscode
 .env
+
+repomix-output.xml
